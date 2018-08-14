@@ -1,17 +1,12 @@
 /*************************************************************************
-    > File Name: 1.c
-# File Name: 1.c
+    > File Name: 2.c
+# File Name: 2.c
 # Author :Ma Qinwei
-# Created Time: 2018年08月14日 星期二 12时05分24秒
+# Created Time: 2018年08月14日 星期二 16时48分56秒
  ************************************************************************/
 
 #include<stdio.h>
 
 int main(int argc, char *argv[])
 {
-	printf("show me your money");
-	//"我加一行"
-	//
-	//i have to do this;
-	//
-}	
+	
